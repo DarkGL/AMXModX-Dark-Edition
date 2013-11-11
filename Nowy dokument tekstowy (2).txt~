@@ -1,0 +1,12 @@
+- usuniecie supportu innych modow // zrobione
+- zmiana ladowania pluginow ( brak plugins.ini ) // zrobione
+- zmiana ladowania modulow ( brak modules.ini ) // zrobione
+- usuniecie kompatybilnosci wstecznej
+- zmiany w xs
+- edycja forwardow
+- edycja taskow
+- funkcja register_cvar_change cvarname , newvalue , oldvalue
+- Napraw nvault
+- Dodanie natywnie funkcji z nvault util
+- alloc_amxmemory i free_amxmemory po co to ?
+- Informowanie o mozliwosci zaoptymalizowanai dzialanai pluginu poprzez kompilacje z -d0 lub -d1 jeśli nie jest w debug przy ładowaniu // zrobione

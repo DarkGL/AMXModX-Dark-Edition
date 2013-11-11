@@ -1,0 +1,9 @@
+#ifndef _INCLUDE_SVN_VERSION_H_
+#define _INCLUDE_SVN_VERSION_H_
+
+#define SVN_VERSION_STRING		"0.5.0 Dark Edition"
+#define SVN_VERSION_DWORD		0,5,0,0
+#define SVN_VERSION_PRODUCT		"0.5.0 Dark"
+#define SVN_BUILD_ID			SVN_VERSION_STRING " 9:7ff502465eae"
+
+#endif //_INCLUDE_SVN_VERSION_H_
