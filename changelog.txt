@@ -62,3 +62,10 @@
 http://forums.alliedmods.net/showthread.php?t=49876
 https://forums.alliedmods.net/showthread.php?t=149210
 https://forums.alliedmods.net/showthread.php?t=164453
+
+- zmiany w xs
+- edycja forwardow
+- edycja taskow
+- funkcja register_cvar_change cvarname , newvalue , oldvalue
+- Napraw nvault
+- Dodanie natywnie funkcji z nvault util
